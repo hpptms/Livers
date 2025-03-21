@@ -59,11 +59,10 @@ export default function App() {
   }, [setFollowList]);
 
   useEffect(() => {
-    // activeContentの値に基づいてナビゲートする
     if (activeContent === "videoGallery") {
-      navigate("/videoGallery");
+      navigate("/Livers/#/videoGallery");
     } else if (activeContent === "management") {
-      navigate("/Management");
+      navigate("/Livers/#/management");
     }
   }, [activeContent, navigate]);
 

@@ -60,9 +60,9 @@ export default function App() {
 
   useEffect(() => {
     if (activeContent === "videoGallery") {
-      navigate("/Livers/#/videoGallery");
+      navigate("/#/videoGallery");
     } else if (activeContent === "management") {
-      navigate("/Livers/#/management");
+      navigate("/#/management");
     }
   }, [activeContent, navigate]);
 

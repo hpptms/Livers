@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Livers/static/css/main.5ac90487.css",
-    "main.js": "/Livers/static/js/main.6cc684e4.js",
+    "main.js": "/Livers/static/js/main.3cc2d970.js",
     "static/media/logo.png": "/Livers/static/media/logo.724c72f4ae7338bb4cc3.png",
     "index.html": "/Livers/index.html",
     "main.5ac90487.css.map": "/Livers/static/css/main.5ac90487.css.map",
-    "main.6cc684e4.js.map": "/Livers/static/js/main.6cc684e4.js.map"
+    "main.3cc2d970.js.map": "/Livers/static/js/main.3cc2d970.js.map"
   },
   "entrypoints": [
     "static/css/main.5ac90487.css",
-    "static/js/main.6cc684e4.js"
+    "static/js/main.3cc2d970.js"
   ]
 }
